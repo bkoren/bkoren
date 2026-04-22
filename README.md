@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Bruno, junior security engineer based in Croatia.
+I'm Bruno, a Junior Software Engineer based in Croatia.
 <!--
 **BKoren/BKoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
