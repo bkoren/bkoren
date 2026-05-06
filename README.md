@@ -1,17 +1,22 @@
-## Hi there 👋
+# Hi, I'm Bruno
 
-I'm Bruno, a Junior Software Engineer based in Croatia.
-<!--
-**BKoren/BKoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Engineer focused on automation, security, and clean solutions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently working on improving workflows and learning new tools
+- Always looking for ways to balance speed, quality, and security
+
+## Tech I Work With
+
+- **Scripting:** PowerShell, Bash, Python, C#, Java, Go, JavaScript
+- **Systems:** Windows 11, Linux
+- **Tools:** Git, Visual Studio, Intellij IDEA
+
+## Connect
+
+- bkoren.it@gmail.com
+- linkedin.com/in/bkoren
+
+---
+
