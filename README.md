@@ -8,4 +8,4 @@ Engineering at the intersection of machine intelligence and security: if it can 
 `Python` · `Go` · `Bash` · LangGraph · Claude/OpenAI APIs
 
 ## Connect
-[LinkedIn](https://linkedin.com/in/bkoren) · [HackTheBox](https://app.hackthebox.com/profile/bkoren) · bkoren.it@gmail.com
+[LinkedIn](https://linkedin.com/in/bkoren) · bkoren.it@gmail.com
