@@ -8,7 +8,7 @@ Engineering at the intersection of machine intelligence and security: if it can 
 `Python` · `Go` · `Bash` · LangGraph · Claude/OpenAI APIs
 
 ## Find me
-[LeetCOde](https://leetcode.com/u/bkoren/) · [HackTheBox](https://profile.hackthebox.com/profile/019e9aeb-3e9b-72c2-b752-7548965c9814)
+[LeetCode](https://leetcode.com/u/bkoren/) · [HackTheBox](https://profile.hackthebox.com/profile/019e9aeb-3e9b-72c2-b752-7548965c9814)
 
 ## Connect
 [LinkedIn](https://linkedin.com/in/bkoren) · bkoren.it@gmail.com
