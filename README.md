@@ -1,22 +1,11 @@
-# Hi, I'm Bruno
+# Bruno Koren
 
-Junior Software Engineer focused on automation, security, and clean solutions.
+**AI/ML Engineer × Security Engineer.** I build autonomous systems for offensive and defensive security.
 
-## About Me
+Engineering at the intersection of machine intelligence and security: if it can be automated, I build the agent; if it can be broken, I build the tool that breaks it.
 
-- Currently working on improving workflows and learning new tools
-- Always looking for ways to balance speed, quality, and security
-
-## Tech I Work With
-
-- **Scripting:** PowerShell, Bash, Python, C#, Java, Go, JavaScript
-- **Systems:** Windows 11, Linux
-- **Tools:** Git, Visual Studio, Intellij IDEA
+## Stack
+`Python` · `Go` · `Bash` · LangGraph · Claude/OpenAI APIs
 
 ## Connect
-
-- bkoren.it@gmail.com
-- linkedin.com/in/bkoren
-
----
-
+[LinkedIn](https://linkedin.com/in/bkoren) · [HackTheBox](https://app.hackthebox.com/profile/bkoren) · bkoren.it@gmail.com
